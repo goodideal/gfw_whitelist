@@ -52,6 +52,7 @@ var RULES = [
     //custom-list
     [
         ".zoopda.com",
+        ".mozilla.org",
         ".yixun.com",
         ".jd.com",
         ".zdmimg.com",

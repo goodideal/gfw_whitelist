@@ -49,6 +49,11 @@ var RULES = [
     [
         ".cn"
     ],
+    //local
+    [
+        "192.",
+        ".xqopen.com"
+    ],
     //custom-list
     [
         ".zoopda.com",
